@@ -1,3 +1,20 @@
+## refind 主题
+[refind](http://www.rodsbooks.com/refind/) 是一个用于管理操作系统启动入口的跨平台工具。
+这是一个简单的refind的主题。该示例在MacBook双系统（macOS + linux）上运行良好。
+
+![refind 主题示例](https://github.com/connorgame/res/raw/master/pic/refind-theme-readhat.png)
+
+### 使用方法
+
+1.复刻本仓库至任意目录。
+
+2.CD至refind安装目录。refind安装目录一般是`/boot/efi/EFI/refind`，这取决于实际安装目录。
+
+3.备份该目录下原始的refind.conf文件。重命名它或异动至别处。建议重命名它。
+
+4.复制本仓库中的refind.conf文件和theme文件夹至refind安装目录。
+
+
 ## refind-theme
 
 [refind](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI based 

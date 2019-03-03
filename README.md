@@ -15,6 +15,13 @@
 4.复制本仓库中的refind.conf文件和theme文件夹至refind安装目录。
 
 
+### 关于背景不生效
+
+可能原因是图片尺寸和你的屏幕尺寸不一致。可以修改theme/bg/bg-redhat1.png这张图片的尺寸
+和你的屏幕分辨率一致，或者选择一副自己喜欢的图片放到`theme/bg/`目录下，并修改refind.conf
+中的`banner theme/bg/bg-redhat1.png`使它与你的采用的图片一致，再修改refind.conf中的
+`resolution 2560 1600`，使它与你的屏幕分辨率一致。
+
 ## refind-theme
 
 [refind](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI based 

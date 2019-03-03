@@ -22,6 +22,7 @@
 中的`banner theme/bg/bg-redhat1.png`使它与你的采用的图片一致，再修改refind.conf中的
 `resolution 2560 1600`，使它与你的屏幕分辨率一致。
 
+
 ## refind-theme
 
 [refind](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI based 

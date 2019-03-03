@@ -1,9 +1,9 @@
 ## refind-theme
 
-[refind](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
-based systems. This is a simple refind theme.
+[refind](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI based 
+systems. This is a simple refind theme.
 
-![refind sample](https://github.com/connorgame/res/tree/master/pic/refind-theme-readhat.png)
+![refind sample](https://github.com/connorgame/res/raw/master/pic/refind-theme-readhat.png)
 
 ### Usage
 

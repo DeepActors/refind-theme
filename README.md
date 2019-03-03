@@ -22,6 +22,9 @@
 中的`banner theme/bg/bg-redhat1.png`使它与你的采用的图片一致，再修改refind.conf中的
 `resolution 2560 1600`，使它与你的屏幕分辨率一致。
 
+注意，如果选择自己的图片做背景，该图片不能是压缩的，否则可能会失败。图片大小没有要求，
+几M的图片也可以展示成功。图片格式可以是png，jpg，bmp。
+
 
 ## refind-theme
 

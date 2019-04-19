@@ -18,9 +18,9 @@
 
 ### 关于背景不生效
 
-可能原因是图片尺寸和你的屏幕尺寸不一致。可以修改theme/bg/bg-redhat2560x1600.png这张图片的尺寸
+可能原因是图片尺寸和你的屏幕尺寸不一致。可以修改theme/bg/redhat2560x1600.png这张图片的尺寸
 和你的屏幕分辨率一致，或者选择一副自己喜欢的图片放到`theme/bg/`目录下，并修改refind.conf
-中的`banner theme/bg/bg-redhat2560x1600.png`使它与你的采用的图片一致，再修改refind.conf中的
+中的`banner theme/bg/redhat2560x1600.png`使它与你的采用的图片一致，再修改refind.conf中的
 `resolution 2560 1600`，使它与你的屏幕分辨率一致。
 
 注意：
@@ -51,4 +51,4 @@ systems. This is a simple refind theme.
 If you find the background not go into effect it may be due to the included wallpaper
 being an incorrect resolution for your monitor. You can choose another background or 
 your own and resize it as appropriate, and put it to theme/bg folder, and modify the line
-`banner theme/bg/bg-redhat2560x1600.png` and the line `resolution 2560 1600` in refind.conf.
+`banner theme/bg/redhat2560x1600.png` and the line `resolution 2560 1600` in refind.conf.
